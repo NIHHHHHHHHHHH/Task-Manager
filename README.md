@@ -5,9 +5,9 @@ A full-stack Task Manager application built with MongoDB, Express.js, React (Vit
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://your-app.vercel.app](https://your-app.vercel.app)
-- **Backend API:** [https://your-api.onrender.com](https://your-api.onrender.com)
-- **GitHub Repository:** [https://github.com/yourusername/task-manager](https://github.com/yourusername/task-manager)
+- **Frontend:** [https://task-manager-orpin-one.vercel.app](https://task-manager-orpin-one.vercel.app)
+- **Backend API:** [https://task-manager-api-51nt.onrender.com](https://task-manager-api-51nt.onrender.com)
+- **GitHub Repository:** [https://github.com/NIHHHHHHHHHHH/Task-Manager](https://github.com/NIHHHHHHHHHHH/Task-Manager)
 
 ## ✨ Features
 
